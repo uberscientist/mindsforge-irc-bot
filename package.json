@@ -1,0 +1,11 @@
+{
+  "name": "alf-bot",
+  "version": "1.0.0",
+  "description": "Alf is a IRC bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
